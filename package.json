@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.8",
+    "@openzeppelin/test-helpers": "^0.5.15",
+    "eth-gas-reporter": "^0.2.25",
+    "solidity-coverage": "^0.8.0-beta.1",
+    "truffle-plugin-verify": "^0.5.28"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "dotenv": "^16.0.1"
+  }
+}

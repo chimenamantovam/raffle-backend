@@ -1,0 +1,9 @@
+.vscode
+/build
+/coverage
+/node_modules
+.env
+.gitattributes
+coverage.json
+gas-report.txt
+package-lock.json
